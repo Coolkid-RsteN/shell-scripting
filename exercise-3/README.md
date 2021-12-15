@@ -1,0 +1,1 @@
+Le "if" sert à créer une condition ce qu'il y a dans les corchets sont les arguments qui doivent répondre à la condition, le "else" est si le fichier ne répond pas à la condition alors il affiche un message.
